@@ -12,6 +12,7 @@ Each member's e-mail address is _account_ [at] eidos.ic.i.u-tokyo.ac.jp.
 |---|---|---|---|---|
 |Professor|[Kenjiro TAURA](https://taura.github.io/) |田浦 健次朗|tau|:jp:|
 |Secretary|Sachie IKEYA|池谷 幸絵|tausec|:jp:|
+|Postdoc|[Xiaohang Xu](https://yukayo.github.io/)|徐 小航|xhxu|:cn:|
 |Doctoral Course Student|Naosuke SHINDO|進藤 直佑|shindo|:jp:|
 |Doctoral Course Student|Haotian Gao|高 昊天|jimmygao|:cn:|
 |Master Course Student|Kishin MATSUOKA|松岡 暉心|matsuoka|:jp:|
