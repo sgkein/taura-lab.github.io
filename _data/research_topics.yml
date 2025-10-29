@@ -1,0 +1,36 @@
+ongoing:
+  - title: "Task parallelism on GPU"
+    url: "research/gpu_task_parallelism"
+    tags: ["HPC", "GPU", "parallelism", "performance-optimization"]
+  - title: "Chapel"
+    url: "#"
+    tags: ["HPC", "programming-language", "parallel"]
+  - title: "Analysis on Cerebras Wafer Scale Engine through Cross-entropy loss function"
+    url: "research/cerebras_project"
+    tags: ["HPC", "AI-hardware", "performance-optimization"]
+  - title: "Memory allocator for NVIDIA GH200"
+    url: "#"
+    tags: ["HPC", "GPU", "memory-management", "Pytorch"]
+  - title: "Next POI prediction"
+    url: "research/next_POI_prediction"
+    tags: ["ML", "spatial-temporal", "data-mining"]
+  - title: "Time-series forecasting"
+    url: "research/time-series_forecasting"
+    tags: ["ML", "spatial-temporal", "data-mining"]
+
+past:
+  - title: "MassiveThreads: Super Lightweight Thread Library"
+    url: "research/massivethreads"
+    tags: ["HPC", "threading", "parallel"]
+  - title: "高性能なタスク並列スケジューラ"
+    url: "research/高性能なタスク並列スケジューラ"
+    tags: ["HPC", "scheduling", "parallel"]
+  - title: "分散共有メモリ"
+    url: "research/分散共有メモリ"
+    tags: ["HPC", "distributed", "memory"]
+  - title: "大規模な文字列データ向けのアドホックな並列処理系"
+    url: "research/大規模な文字列データ向けのアドホックな並列処理系"
+    tags: ["HPC", "text-processing", "parallel"]
+  - title: "Analysis of Large Mini-Batch Training of Neural Networks"
+    url: "research/analysis_of_large_mini-batch_training_of_neural_networks"
+    tags: ["ML", "deep-learning", "optimization"]

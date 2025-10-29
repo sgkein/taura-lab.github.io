@@ -12,28 +12,17 @@ You can see recent thesis titles [here](thesis_titles).
 
 # On-going topics
 
-## [HPC] High-Level, High-Performance General-Purpose Programming Frameworks
-
-  * [Task parallelism on GPU](research/gpu_task_parallelism)
-  * Chapel
-
-## [HPC] Software optimization / compiler optimization for AI hardware accelerator (GPU, post-GPU devices)
-
-  * [Analysis on Cerebras Wafer Scale Engine through Cross-entropy loss function](research/cerebras_project)
-  * Memory allocator for NVIDIA GH200
-
-## [ML] Spatial-temporal data mining
-
-  * [next level is next POI prediction](research/next_POI_prediction)
-  * [time-series forecasting](research/time-series_forecasting)
-
-## [ML/HPC] Performance optimizations of transformer / post-transformer models
-
-
-
-## [ML] Differential Privacy
-
-
+{% for topic in site.data.research_topics.ongoing %}
+  <div class="research-item">
+    * [{{ topic.title }}]({{ topic.url }})
+    <span class="tags-container">
+      {% for tag in topic.tags %}
+        <span class="research-tag">#{{ tag }}</span>
+      {% endfor %}
+    </span>
+  </div>
+  {% endif %}
+{% endfor %}
   
 # Past topics
 
