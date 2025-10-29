@@ -22,9 +22,10 @@ You can see recent thesis titles [here](thesis_titles).
   * [Analysis on Cerebras Wafer Scale Engine through Cross-entropy loss function](research/cerebras_project)
   * Memory allocator for NVIDIA GH200
 
-## [ML] Spatial-temporal data application with LLM
+## [ML] Spatial-temporal data mining
 
-
+  * [next level is next POI prediction](research/next_POI_prediction)
+  * [time-series forecasting](research/time-series_forecasting)
 
 ## [ML/HPC] Performance optimizations of transformer / post-transformer models
 
