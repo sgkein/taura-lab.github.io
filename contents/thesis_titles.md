@@ -4,6 +4,56 @@ title: Thesis Titles
 nav_exclude: true
 ---
 
+# 2025
+
+|学位|名前|題目|
+|---|---|:---|
+|修士|江口 航志|InterconnectLens: GPU クラスタにおけるデータ転送の可観測性向上ツールの提案 <br> InterconnectLens: Enhancing Observability of Data Transfers in GPU Clusters|
+
+# 2024
+
+|学位|名前|題目|
+|---|---|:---|
+|修士|平岡 拓海|差分プライバシーにおけるプライバシー損失推定フレームワーク|
+|修士|利根 悠司|結晶構造予測のための不変かつ連続な生成モデル <br> Generative Model for Crystal Structure Prediction with Invariance and Continuity|
+|学士|高橋 淳一郎|CPUとGPU双方を効率に活用した処理の考察|
+|学士|竹嶋 唯真|関連性と被引用数予測に基づく論文の推薦システム|
+|学士|杉山 月渚|Vision Transfomerのメモリ使用量削減のための完全量子化学習へ向けて <br> Step Towards Fully Quantized Vision Transformers To Reduce Memory Requirement|
+
+# 2023
+
+|学位|名前|題目|
+|---|---|:---|
+|博士|椎名 峻平|局所性に配慮したスケジューリングと大域アドレス空間による大規模タスク並列処理 <br> Task Parallelism at Scale: Locality-Aware Scheduling and Global Address Space|
+|修士|小林 亮太|SATySFiにおけるドメイン固有型エラー診断 <br> Domain-specific Type Error Diagnosis in SATySFi|
+|学士|細川 颯介|GPU間で自律的な動的負荷分散を行う非同期マルチGPU処理系の実装|
+|学士|佐々木 大夢|タスク並列分散処理における書き込み履歴を利用した効率的なキャッシュ管理手法|
+|学士|両角 颯|プレゼンテーションスライド作成のためのSATySFiノートブック環境|
+|学士|西井 遥紀|Intel SGXを用いた共有の柔軟な操作を可能とするセキュアなファイルシステム|
+
+# 2022
+
+|学位|名前|題目|
+|---|---|:---|
+|博士|李 楽|大規模ad-hocデータ解析用の並列構文解析器の生成 <br> A Parallel Parser Generator for Large Scale Ad-hoc Data Analysis|
+|修士|秀島 宇音|C++におけるfar-memoryデータ構造のためのアロケータ抽象化 <br> Allocator Abstraction for Far-memory Data Structures in C++|
+|修士|高品 剛大|Simultaneous Finite Automaton の部分構成を用いた並列正規表現マッチング <br> Parallel Regular Expression Matching using On-the-fly Construction of Simultaneous Finite Automaton|
+|学士|利根 悠司|自己書き換え的なVerbsを用いるRDMA プログラミングのための言語処理系|
+|学士|水橋 大瑶|Mixed-Size Accessesを含む並行Cプログラムの効率的なモデル検査|
+|学士|柘植 大輔|TinyGo処理系へのScoped Memoryの導入によるメモリ効率の改善|
+|学士|高重 駿|分子物性予測の外挿問題に対する自己教師あり事前学習の効果検証 <br> Is Self-Supervised Pretraining Good for Extrapolation in Molecular Property Prediction?|
+|学士|王 力敏|事前学習を用いた物性予測におけるData Imbalancedness問題について|
+
+# 2021
+
+|学位|名前|題目|
+|---|---|:---|
+|修士|高橋 大成|高い合成可能性と性能可搬性のための再帰的なブロッキングに基づく効率的な行列積演算の並列化 <br> Efficient parallelization of matrix multiplication based on recursive blocking for high composability and performance portability|
+|修士|松田 翔吾|キャッシュ効率の改善を目的としたタスクスケジューラの自動チューニング <br> Improving Cache Utilization of Task Scheduling by Auto-tuning|
+|学士|小林 亮太|階層的なメモリ管理に基づく保守的なガベージコレクタの開発|
+|学士|島田 優|ArgoDSMにおけるメモリポリシーの動的変更の実装と評価|
+|学士|韓 佳峻|Unified MemoryによるTaichi言語のメモリ管理の改善|
+
 # 2020
 
 |学位|名前|題目|
