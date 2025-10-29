@@ -14,7 +14,7 @@ nav_exclude: true
 
 |学位|名前|題目|
 |---|---|:---|
-|修士|平岡 拓海|差分プライバシーにおけるプライバシー損失推定フレームワーク|
+|修士|平岡 拓海|差分プライバシーにおけるプライバシー損失推定フレームワーク <br> A Framework for Estimating Privacy Loss in Differential Privacy|
 |修士|利根 悠司|結晶構造予測のための不変かつ連続な生成モデル <br> Generative Model for Crystal Structure Prediction with Invariance and Continuity|
 |学士|高橋 淳一郎|CPUとGPU双方を効率に活用した処理の考察|
 |学士|竹嶋 唯真|関連性と被引用数予測に基づく論文の推薦システム|
