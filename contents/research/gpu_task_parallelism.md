@@ -1,3 +1,9 @@
+---
+layout: page
+title: GPUにおけるタスク並列処理系
+nav_exclude: true
+---
+
 # GPU におけるタスク並列処理系
 
 ## GPU とはどのようなアーキテクチャ？
