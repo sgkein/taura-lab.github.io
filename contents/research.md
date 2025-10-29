@@ -13,14 +13,14 @@ You can see recent thesis titles [here](thesis_titles).
 # On-going topics
 
 {% for topic in site.data.research_topics.ongoing %}
-<div class="research-item">
+<!-- <div class="research-item"> -->
   * [{{ topic.title }}]({{ topic.url }})
   <span class="tags-container">
     {% for tag in topic.tags %}
       <span class="research-tag">#{{ tag }}</span>
     {% endfor %}
   </span>
-</div>
+<!-- </div> -->
 {% endfor %}
   
 # Past topics
