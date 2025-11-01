@@ -11,6 +11,9 @@ ongoing:
   - title: "Memory allocator for NVIDIA GH200"
     url: "#"
     tags: ["HPC", "GPU", "memory-management", "Pytorch"]
+  - title: "Mechanistic Interpretability"
+    url: "research/mechanistic_interpretability"
+    tags: ["deep-learning", "interpretability"]
   - title: "Next POI prediction"
     url: "research/next_POI_prediction"
     tags: ["ML", "spatial-temporal", "data-mining"]
