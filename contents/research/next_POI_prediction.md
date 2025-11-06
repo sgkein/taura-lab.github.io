@@ -21,6 +21,8 @@ Evolving Location Based Social Networks (LBSNs) platform, e.g., Foursquare, Gowa
   </figcaption>
 </figure>
 
+
+
 As shown in Figure 1, one user checks in the Bookoff, so the platform can record his user ID, check-in POI ID, check-in time, latitude, longitude... Our task is based on the check-in data to finish the next POI prediction.
 
 ## What is the next POI prediction?
