@@ -6,3 +6,4 @@ favicon_ico: "/assets/images/favicon.png"
 plugins:
   - jemoji
   - jekyll-redirect-from
+math: mathjax

@@ -1,4 +1,4 @@
-3.2
+3.2.8
 
 # NOTE:
 # `ruby>=3.3.0` is not compatible with Jekyll version used in `github-pages` gem.

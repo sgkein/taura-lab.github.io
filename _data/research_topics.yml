@@ -2,24 +2,43 @@ ongoing:
   - title: "Task parallelism on GPU"
     url: "research/gpu_task_parallelism"
     tags: ["HPC", "GPU", "parallelism", "performance-optimization"]
+    researchers:
+      - name: "Yuki MAEDA"
   - title: "Flexible and Efficient GPU-ready PGAS Runtime System"
     url: "research/gpu_pgas_runtime"
     tags: ["HPC", "GPU", "programming-language", "parallel"]
+    researchers:
+      - name: "Sosuke Hosokawa"
   - title: "Analysis on Cerebras Wafer Scale Engine through Cross-entropy loss function"
     url: "research/cerebras_project"
     tags: ["HPC", "AI-hardware", "performance-optimization"]
+    researchers:
+      - name: "Yuri TAKIGAWA"
   - title: "Memory Optimization and Performance Acceleration in CPU–GPU Co-Coupled Architecture"
     url: "research/co_coupled_hardware"
     tags: ["HPC", "GPU", "memory-management", "Pytorch"]
+    researchers:
+      - name: "Junichiro TAKAHASHI"
   - title: "Mechanistic Interpretability"
     url: "research/mechanistic_interpretability"
     tags: ["deep-learning", "interpretability"]
+    researchers: 
+      - name: "Yoshihiro IZAWA"
   - title: "Next POI prediction"
     url: "research/next_POI_prediction"
     tags: ["ML", "spatial-temporal", "data-mining"]
+    researchers:
+      - name: "Xiaohang XU"
   - title: "Time-series forecasting"
     url: "research/time-series_forecasting"
     tags: ["ML", "spatial-temporal", "data-mining"]
+    researchers:
+      - name: "	Haotian GAO"
+  - title: "Performance analysis and acceleration methods for Kolmogorov–Arnold Networks"
+    url: "research/performance_analysis_and_acceleration_methods_for_KAN"
+    tags: ["deep-learning", "interpretability", "performance-optimization"]
+    researchers:
+      - name: "Shuhao CUI"
 
 past:
   - title: "MassiveThreads: Super Lightweight Thread Library"
