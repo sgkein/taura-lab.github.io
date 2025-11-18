@@ -33,7 +33,7 @@ ongoing:
     url: "research/time-series_forecasting"
     tags: ["ML", "spatial-temporal", "data-mining"]
     researchers:
-      - name: "	Haotian GAO"
+      - name: "	Haotian GAO" and "Zheng Dong"
   - title: "Performance analysis and acceleration methods for Kolmogorov–Arnold Networks"
     url: "research/performance_analysis_and_acceleration_methods_for_KAN"
     tags: ["deep-learning", "interpretability", "performance-optimization"]
