@@ -30,7 +30,7 @@ ongoing:
     researchers:
       - name: "Xiaohang XU"
   - title: "Time-series forecasting"
-    url: "research/time-series_forecasting"
+    url: "research/time-series-forecasting"
     tags: ["ML", "spatial-temporal", "data-mining"]
     researchers:
       - name: "Haotian GAO and Zheng DONG"
