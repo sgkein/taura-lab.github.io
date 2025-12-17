@@ -39,6 +39,12 @@ ongoing:
     tags: ["deep-learning", "interpretability", "performance-optimization"]
     researchers:
       - name: "Shuhao CUI"
+  
+  - title: "Differential Privacy"
+    url: "research/differential_privacy"
+    tags: ["ML", "privacy", "programming-language"]
+    researchers:
+      - name: "Naoto Goto"
 
 past:
   - title: "MassiveThreads: Super Lightweight Thread Library"
