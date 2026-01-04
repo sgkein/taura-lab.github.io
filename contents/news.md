@@ -5,7 +5,23 @@ nav_exclude: true
 ---
 
 # Old News since 2014 Nov. (ニュース)
-
+  * 2021 Dec. 6: 卒業生 遠藤亘の博士研究の仕事 "ComposableThreads: Rethinking User-level Threads with Composability and Parametricity in C++" がJournal of Information Processingに採択されました．(A paper by Endo et al. got accepted to Journal of Information Processing.)
+  * 2021 Nov. 1: 卒業生 井原央翔のPRO-2020-1における発表が，[CS領域奨励賞](https://www.ipsj.or.jp/award/cs-awardee-2021.html)を受賞しました．(Ihara Hiroka recieved [IPSJ Computer Science Research Award for Young Scientists](https://www.ipsj.or.jp/award/cs-awardee-2021.html).)
+  * 2021 Jul. 27: 卒業生 藤村柊吾らの論文 "An Efficient and Scalable Distributed Hypergraph Processing System" がJournal of Information Processingに採択されました．(A paper by Fujimura et al. got accepted to Journal of Information Processing.)
+  * 2021 Mar. 19: 修士課程 椎名峻平の修士論文 "Efficient Thread Scheduling Strategies for Nested Parallel Programs (ネストした並列プログラムに対する効率的なスレッドスケジューリング手法)" が情報理工学系研究科 研究科長賞に選ばれました． (Shumpei Shiina received a Dean's award from the Graduate School of Information Science and Technology.)
+  * 2021 Mar. 19: 修士課程 椎名峻平，福岡拓也，山口龍太郎が修士号を取得しました． (Shumpei Shiina, Takuya Fukuoka, and Ryutaro Yamaguchi received a master's degree.)
+  * 2021 Mar. 18: 卒論生 秀島宇音，藤村柊吾，木村元紀，役山真柊が学士号を取得しました． (Takato Hideshima, Shugo Fujimura, Genki Kimura, and Makoto Yakuyama received a bachelor's degree.)
+  * 2021 Feb. 8: 修士課程 福岡拓也らの論文 "Pitfalls of InfiniBand with On-Demand Paging" が [ISPASS 2021](https://www.ispass.org/ispass2021/) に採択されました． (A paper by Takuya Fukuoka et al. has been accepted by [ISPASS 2021](https://www.ispass.org/ispass2021/))
+  * 2020 Dec. 11: 博士課程 李楽らの論文 "Plex: Scaling Parallel Lexing with Backtrack-Free Prescanning" が [IPDPS 2021](https://www.ipdps.org/) に採択されました． (A paper by Le Li et al. has been accepted by [IPDPS 2021](https://www.ipdps.org/))
+  * 2020 Nov. 17: 修士課程 椎名峻平らの論文 "Lightweight Preemptive User-Level Threads" が [PPoPP 2021](https://ppopp21.sigplan.org/) に採択されました． (A paper by Shumpei Shiina et al. has been accepted by [PPoPP 2021](https://ppopp21.sigplan.org/)) 
+  * 2020 Oct. 2: 卒業生 遠藤亘の博士研究の仕事 "MENPS: A Decentralized Distributed Shared Memory Exploiting RDMA" が[IPDRM 2020](https://ipdrm.github.io/)に採択されました．(A paper by Wataru Endo et al. got accepted for [IPDRM 2020](https://ipdrm.github.io/).)
+  * 2020 Sep. 25: 博士課程 クリスティアン ヘルムが博士号を取得して卒業しました． (Christian Helm received a doctor's degree.) 
+  * 2020 Sep. 16: 博士課程 クリスティアン ヘルムらの論文 "Reliable Reverse Engineering of Intel DRAM Addressing Using Performance Counters" が [MASCOTS 2020](http://mascots.iitis.pl/) に採択されました． (A paper by Christian Helm et al. has been accepted by [MASCOTS 2020](http://mascots.iitis.pl/)) 
+  * 2020 Aug. 28: 修士課程 福岡拓也らの研究 "Analyzing Performance Pitfalls of On-Demand Paging of InfiniBand" が[第150回OS研究会（SWoPP 2020）](http://www.ipsj.or.jp/sig/os/index.php?2020%C7%AF7%B7%EE%B8%A6%B5%E6%B2%F1)にて最優秀若手発表賞を受賞しました．
+  * 2020 Jul. 31: 佐藤重幸が[2020年度山下記念研究賞](https://www.ipsj.or.jp/award/yamasita2020-detail.html#pro)を受賞しました．
+  * 2020 Jul. 28: 卒業生 井原央翔の修士研究の仕事 "Centaurus: A Dynamic Parser Generator for Parallel Ad Hoc Data Extraction" が[IPSJ Transactions on Programming Vol.13 No.4](http://id.nii.ac.jp/1001/00207287/)に採択されました．
+  * 2020 May. 26: 博士課程 クリスティアン ヘルムらの論文 "Automatic Identification and Precise Attribution of DRAM Bandwidth Contention" が [ICPP 2020](https://jnamaral.github.io/icpp20/) に採択されました． (A paper by Christian Helm et al. has been accepted by [ICPP 2020](https://jnamaral.github.io/icpp20/)) 
+  * 2020 Feb. 14: 博士課程 岩崎慎太郎らの論文 "Analyzing the Performance Trade-Off in Implementing User-Level Threads" が [IEEE TPDS](https://www.computer.org/csdl/journal/td) に採択されました． (A paper by Shintaro Iwasaki et al. has been accepted by [IEEE TPDS](https://www.computer.org/csdl/journal/td)) 
   * 2019 Oct. 14: 博士課程 クリスティアン ヘルムらの論文 "On the Correct Measurement of Application Memory Bandwidth and Memory Access Latency" が [HPC Asia 2020](http://sighpc.ipsj.or.jp/HPCAsia2020/index.html) に採択されました． (A paper by Christian Helm et al. has been accepted by [HPC Asia 2020](http://sighpc.ipsj.or.jp/HPCAsia2020/index.html))
   * 2019 Sep. 24: 博士課程 岩崎慎太郎らの論文 "BOLT: Optimizing OpenMP Parallel Regions with User-Level Threads" が[PACT 2019](https://pactconf.org/)でBest Paperに選ばれました．(A paper by Shintaro Iwasaki et al. won the Best Paper Award in [PACT 2019](https://pactconf.org/).)
   * 2019 Aug. 11: 博士課程 岩崎慎太郎らの論文 "BOLT: Optimizing OpenMP Parallel Regions with User-Level Threads" が[PACT 2019](https://pactconf.org/)でBest Paper候補(4件)に選ばれました．(A paper by Shintaro Iwasaki et al. is nominated as one of the four best paper candidates in [PACT 2019](https://pactconf.org/).)

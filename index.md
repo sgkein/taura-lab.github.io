@@ -29,7 +29,16 @@ computers much more accessible to domain scientists.
 主な研究分野は，並列処理，分散処理，システムソフトウェア，プログラミング言語などです．
 特に，並列処理を高水準に行うためのソフトウェアに重点をおき，より多くの分野研究者に高性能並列計算機の力を提供することを目指しています．
 
-### 研究室紹介
+## Introduction of Our Laboratory (研究室紹介)
+
+For our current research topics, please refer to the [*Research* section](contents/research) of this HP.
+Additionally, videos and documents used in past lab introductions can be accessed below.
+
+現在取り組まれている研究テーマに関しては，本サイトの [*Research*セクション](contents/research) からご覧になれます．
+その他にも，過去の研究室紹介で使用した動画や文書が以下からアクセスできます．
+
+<details markdown="1">
+  <summary>過去の研究室紹介の資料 (click here)</summary>
 
   * 2022/5/21 入試説明会（電子情報学専攻）
     * [研究紹介ビデオ（Japanese）](https://youtu.be/21166z372R8) [[PDF]](contents/files/intro_2022/taura-lab-intro-ja.pdf)
@@ -48,6 +57,7 @@ computers much more accessible to domain scientists.
   * 2019/11/27 [3年生研究室訪問時紹介スライド](contents/紹介3年生2019)
   * 東大[学内広報 no. 1499 2017.8](https://www.u-tokyo.ac.jp/ja/about/public-relations/kouhou2017.html)に書いたカラム[「車輪の再発明と研究者の幸せ(最終ページ)」](https://www.u-tokyo.ac.jp/content/400067376.pdf). 技術的なことは抜きにして研究についての考え. 
   * 東大情報基盤センター広報誌[Digital Life vol 31. 2018.9](https://www.itc.u-tokyo.ac.jp/DigitalLife/vol31/Digital%20Life%20Vol31.pdf)の巻頭言. 教員の仕事や情報基盤センターの仕事について. 
+</details>
 
 ## News (ニュース)
   * 2024 Dec. 12: 修士課程 利根悠司らの論文 "ContinuouSP: Generative Model for Crystal Structure Prediction with Invariance and Continuity" が [AI2ASE 2025](https://ai-2-ase.github.io/) に採択されました． (A paper by Yuji Tone et al. has been accepted by [AI2ASE 2025](https://ai-2-ase.github.io/))
@@ -65,23 +75,5 @@ computers much more accessible to domain scientists.
   * 2022 Jul. 05: 博士課程 椎名峻平らの論文 "Distributed Continuation Stealing is More Scalable than You Might Think" が [IEEE Cluster 2022](https://clustercomp.org/2022/) に採択されました． (A paper by Shumpei Shiina et al. has been accepted by [IEEE Cluster 2022](https://clustercomp.org/2022/))
   * 2022 Mar. 15:  Journal of Information Processing Vol.30に掲載された論文 "ComposableThreads: Rethinking User-level Threads with Composability and Parametricity in C++" が，[JIP特選論文](https://www.ipsj.or.jp/english/organization/aboutipsj/award/ssp_award.html)に選ばれました．(The paper "ComposableThreads: Rethinking User-level Threads with Composability and Parametricity in C++" published at Journal of Information Processing Vol.30 received the [JIP Specially Selected Paper](https://www.ipsj.or.jp/english/organization/aboutipsj/award/ssp_award.html) certificate.)
   * 2022 Jan. 12:  修士課程 秀島宇音らの論文「ページベース分散共有メモリ上でのコストを意識したプログラミング」(Cost-aware Programming on Page-based Distributed Shared Memory) が情報処理学会論文誌 プログラミングに採択されました．(A paper by Hideshima et al. got accepted to IPSJ Transactions on Programming.)
-  * 2021 Dec. 6: 卒業生 遠藤亘の博士研究の仕事 "ComposableThreads: Rethinking User-level Threads with Composability and Parametricity in C++" がJournal of Information Processingに採択されました．(A paper by Endo et al. got accepted to Journal of Information Processing.)
-  * 2021 Nov. 1: 卒業生 井原央翔のPRO-2020-1における発表が，[CS領域奨励賞](https://www.ipsj.or.jp/award/cs-awardee-2021.html)を受賞しました．(Ihara Hiroka recieved [IPSJ Computer Science Research Award for Young Scientists](https://www.ipsj.or.jp/award/cs-awardee-2021.html).)
-  * 2021 Jul. 27: 卒業生 藤村柊吾らの論文 "An Efficient and Scalable Distributed Hypergraph
-Processing System" がJournal of Information Processingに採択されました．(A paper by Fujimura et al. got accepted to Journal of Information Processing.)
-  * 2021 Mar. 19: 修士課程 椎名峻平の修士論文 "Efficient Thread Scheduling Strategies for Nested Parallel Programs (ネストした並列プログラムに対する効率的なスレッドスケジューリング手法)" が情報理工学系研究科 研究科長賞に選ばれました． (Shumpei Shiina received a Dean's award from the Graduate School of Information Science and Technology.)
-  * 2021 Mar. 19: 修士課程 椎名峻平，福岡拓也，山口龍太郎が修士号を取得しました． (Shumpei Shiina, Takuya Fukuoka, and Ryutaro Yamaguchi received a master's degree.)
-  * 2021 Mar. 18: 卒論生 秀島宇音，藤村柊吾，木村元紀，役山真柊が学士号を取得しました． (Takato Hideshima, Shugo Fujimura, Genki Kimura, and Makoto Yakuyama received a bachelor's degree.)
-  * 2021 Feb. 8: 修士課程 福岡拓也らの論文 "Pitfalls of InfiniBand with On-Demand Paging" が [ISPASS 2021](https://www.ispass.org/ispass2021/) に採択されました． (A paper by Takuya Fukuoka et al. has been accepted by [ISPASS 2021](https://www.ispass.org/ispass2021/))
-  * 2020 Dec. 11: 博士課程 李楽らの論文 "Plex: Scaling Parallel Lexing with Backtrack-Free Prescanning" が [IPDPS 2021](https://www.ipdps.org/) に採択されました． (A paper by Le Li et al. has been accepted by [IPDPS 2021](https://www.ipdps.org/))
-  * 2020 Nov. 17: 修士課程 椎名峻平らの論文 "Lightweight Preemptive User-Level Threads" が [PPoPP 2021](https://ppopp21.sigplan.org/) に採択されました． (A paper by Shumpei Shiina et al. has been accepted by [PPoPP 2021](https://ppopp21.sigplan.org/)) 
-  * 2020 Oct. 2: 卒業生 遠藤亘の博士研究の仕事 "MENPS: A Decentralized Distributed Shared Memory Exploiting RDMA" が[IPDRM 2020](https://ipdrm.github.io/)に採択されました．(A paper by Wataru Endo et al. got accepted for [IPDRM 2020](https://ipdrm.github.io/).)
-  * 2020 Sep. 25: 博士課程 クリスティアン ヘルムが博士号を取得して卒業しました． (Christian Helm received a doctor's degree.) 
-  * 2020 Sep. 16: 博士課程 クリスティアン ヘルムらの論文 "Reliable Reverse Engineering of Intel DRAM Addressing Using Performance Counters" が [MASCOTS 2020](http://mascots.iitis.pl/) に採択されました． (A paper by Christian Helm et al. has been accepted by [MASCOTS 2020](http://mascots.iitis.pl/)) 
-  * 2020 Aug. 28: 修士課程 福岡拓也らの研究 "Analyzing Performance Pitfalls of On-Demand Paging of InfiniBand" が[第150回OS研究会（SWoPP 2020）](http://www.ipsj.or.jp/sig/os/index.php?2020%C7%AF7%B7%EE%B8%A6%B5%E6%B2%F1)にて最優秀若手発表賞を受賞しました．
-  * 2020 Jul. 31: 佐藤重幸が[2020年度山下記念研究賞](https://www.ipsj.or.jp/award/yamasita2020-detail.html#pro)を受賞しました．
-  * 2020 Jul. 28: 卒業生 井原央翔の修士研究の仕事 "Centaurus: A Dynamic Parser Generator for Parallel Ad Hoc Data Extraction" が[IPSJ Transactions on Programming Vol.13 No.4](http://id.nii.ac.jp/1001/00207287/)に採択されました．
-  * 2020 May. 26: 博士課程 クリスティアン ヘルムらの論文 "Automatic Identification and Precise Attribution of DRAM Bandwidth Contention" が [ICPP 2020](https://jnamaral.github.io/icpp20/) に採択されました． (A paper by Christian Helm et al. has been accepted by [ICPP 2020](https://jnamaral.github.io/icpp20/)) 
-  * 2020 Feb. 14: 博士課程 岩崎慎太郎らの論文 "Analyzing the Performance Trade-Off in Implementing User-Level Threads" が [IEEE TPDS](https://www.computer.org/csdl/journal/td) に採択されました． (A paper by Shintaro Iwasaki et al. has been accepted by [IEEE TPDS](https://www.computer.org/csdl/journal/td)) 
 
 [See older](contents/news)
