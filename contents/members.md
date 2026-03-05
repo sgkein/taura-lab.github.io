@@ -26,7 +26,7 @@ Each member's e-mail address is _account_ [at] eidos.ic.i.u-tokyo.ac.jp.
 |Master Course Student|Mitsuru HATANO|波多野 充|tano|:jp:|
 |Undergraduate Student|Yuri TAKIGAWA|瀧川 雄理|takigawa|:jp:|
 |Undergraduate Student|[Yoshihiro IZAWA](https://www.omusubiy.com/)|井澤 慶広|izawa|:jp:|
-|Undergraduate Student|Yuki MAEDA|前田 優希|maeda|:jp:|
+|Undergraduate Student|[Yuki MAEDA](https://yukim0359.github.io)|前田 優希|maeda|:jp:|
 |Undergraduate Student|Naoto GOTO|後藤 直人|gotonao|:jp:|
 |Research Student|Mato Alejandro|マト アレハンドロ|couci|:andorra:|
 
