@@ -6,6 +6,16 @@ nav_exclude: true
 
 # Taura Laboratory's Alumni
 
+## 2026 spring
+
+||Name (Given FAMILY)|名前 (姓 名)|Account|Nationality|
+|---|---|---|---|---|
+|Master Course Student|Hiromu SASAKI|佐々木 大夢|sasahiro|:jp:|
+|Master Course Student|Sosuke HOSOKAWA|細川 颯介|sosuke|:jp:|
+|Master Course Student|Shohei WATANABE|渡邊 梢平|shohei|:jp:|
+|Undergraduate Student|[Yoshihiro IZAWA](https://www.omusubiy.com/)|井澤 慶広|izawa|:jp:|
+|Undergraduate Student|Naoto GOTO|後藤 直人|gotonao|:jp:|
+
 ## 2025 autumn
 
 ||Name (Given FAMILY)|名前 (姓 名)|Account|Nationality|

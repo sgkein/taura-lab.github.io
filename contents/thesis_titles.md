@@ -9,6 +9,13 @@ nav_exclude: true
 |学位|名前|題目|
 |---|---|:---|
 |修士|江口 航志|InterconnectLens: GPU クラスタにおけるデータ転送の可観測性向上ツールの提案 <br> InterconnectLens: Enhancing Observability of Data Transfers in GPU Clusters|
+|修士|佐々木 大夢|有向グラフにおける影響最大化問題に対する並列 CELF の有効性の検証|
+|修士|細川 颯介|GPU主導のPGAS通信によるマルチノード・マルチGPUプログラミングのためのChapel言語拡張 <br> Extending Chapel Programming Language for Multi-Node, Multi-GPU Programming with GPU-Initiated PGAS Communication|
+|修士|渡邊 梢平|クラスタリングに基づくKV Cache残差量子化による大規模言語モデル推論の高速化 <br> Accelerating Large Language Model Inference via Clustering-Based Residual Quantization of KV Cache|
+|学士|井澤 慶広|内部生成機構への局所的介入による大規模言語モデルの安定したペルソナ制御 <br> Steering at the Source: Robust Persona Control via Sparse Head Intervention|
+|学士|後藤 直人|差分プライバシー保護下における医用画像生成とデータ拡張手法の検討|
+|学士|瀧川 雄理|融合クロスエントロピーを用いたウェハスケールアーキテクチャにおける時空間最適化手法の提案 <br> Spatio-Temporal Optimization of Wafer-Scale Execution: A Study Using Fused Cross-Entropy|
+|学士|前田 優希|GTaP：プラグマベースのインタフェースを備えたGPU常駐型Fork-Joinタスク並列処理系 <br> GTaP: A GPU-Resident Fork-Join Task-Parallel Runtime with a Pragma-Based Interface|
 
 # 2024
 

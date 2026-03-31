@@ -17,17 +17,12 @@ Each member's e-mail address is _account_ [at] eidos.ic.i.u-tokyo.ac.jp.
 |Doctoral Course Student|Haotian Gao|高 昊天|jimmygao|:cn:|
 |Doctoral Course Student|Zheng DONG|董 正|dong|:cn:|
 |Master Course Student|Kishin MATSUOKA|松岡 暉心|matsuoka|:jp:|
-|Master Course Student|Hiromu SASAKI|佐々木 大夢|sasahiro|:jp:|
-|Master Course Student|Sosuke HOSOKAWA|細川 颯介|sosuke|:jp:|
-|Master Course Student|Shohei WATANABE|渡邊 梢平|shohei|:jp:|
 |Master Course Student|Shuhao CUI|崔 書豪|tsui|:cn:|
 |Master Course Student|Junichiro TAKAHASHI|高橋 淳一郎|superhotdogcat|:jp:|
 |Master Course Student|Yuima TAKESHIMA|竹嶋 唯真|yuima|:jp:|
 |Master Course Student|Mitsuru HATANO|波多野 充|tano|:jp:|
-|Undergraduate Student|Yuri TAKIGAWA|瀧川 雄理|takigawa|:jp:|
-|Undergraduate Student|[Yoshihiro IZAWA](https://www.omusubiy.com/)|井澤 慶広|izawa|:jp:|
-|Undergraduate Student|[Yuki MAEDA](https://yukim0359.github.io)|前田 優希|maeda|:jp:|
-|Undergraduate Student|Naoto GOTO|後藤 直人|gotonao|:jp:|
+|Master Course Student|Yuri TAKIGAWA|瀧川 雄理|takigawa|:jp:|
+|Master Course Student|[Yuki MAEDA](https://yukim0359.github.io)|前田 優希|maeda|:jp:|
 |Research Student|Mato Alejandro|マト アレハンドロ|couci|:andorra:|
 
 ## Past Members
