@@ -24,6 +24,7 @@ Each member's e-mail address is _account_ [at] eidos.ic.i.u-tokyo.ac.jp.
 |Master Course Student|Yuri TAKIGAWA|瀧川 雄理|takigawa|:jp:|
 |Master Course Student|[Yuki MAEDA](https://yukim0359.github.io)|前田 優希|maeda|:jp:|
 |Research Student|Mato Alejandro|マト アレハンドロ|couci|:andorra:|
+|Bachelor Course Student|Gen SAKAI|酒井 元|gsakai|:jp:|
 
 ## Past Members
 
